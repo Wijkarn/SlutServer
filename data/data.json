@@ -1,23 +1,27 @@
 {
-  "p1": {
-    "id": 1,
-    "name":"Markus",
-    "age":56,
-    "favoriteColor":"Green",
-    "data":[1, 2, 3, 4, 5]
+  "anakin skywalker": {
+    "name": "Anakin Skywalker",
+    "rank": "General",
+    "legion": "501st"
   },
-  "p2": {
-    "id": 2,
-    "name":"Micke",
-    "age":37,
-    "favoriteColor":"Blue",
-    "data":["a", "b", "c", "d", "e"]
+  "obi-wan kenobi": {
+    "name": "Obi-Wan Kenobi",
+    "rank": "General",
+    "legion": "212th"
   },
-  "p3": {
-    "id": 3,
-    "name":"Emma",
-    "age":40,
-    "favoriteColor":"Gul",
-    "data":["a", "b", "c", "d", "e"]
+  "rex": {
+    "name": "Rex",
+    "rank": "Captain",
+    "legion": "501st"
+  },
+  "cody": {
+    "name": "Cody",
+    "rank": "Commander",
+    "legion": "212th"
+  },
+  "waxer": {
+    "name": "Waxer",
+    "rank": "Clone Lieutenant",
+    "legion": "212th"
   }
 }
